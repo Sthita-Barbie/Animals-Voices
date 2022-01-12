@@ -1,0 +1,39 @@
+body {
+    background: #ae8fe0;
+    font-family: 'Akaya Telivigila', cursive;
+
+}
+
+.header_div
+{
+    background: #73bce6;
+    color:rgb(150, 3, 76);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.header_div p{
+    font-family: 'Oswald', sans-serif;
+    color:rgb(251, 253, 253);
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family: 'Josefin Sans', sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer
+{
+    position:fixed;
+    color: whitesmoke;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: rgb(174, 112, 216);
+    line-height: 3;
+    text-align: center;
